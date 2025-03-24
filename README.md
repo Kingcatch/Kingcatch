@@ -4,19 +4,19 @@
 
 Data Engineer | AI & Machine Learning Enthusiast | Renewable Energy Advocate
 
-📌 Based in Manchester, UK
+🚀 Passionate about **Data Engineering, AI, and Sustainable Energy**  
 
-📊 Background in **Data Engineering, Python programming, and Sustainable Energy**
+📌 Based in **Manchester, UK**  
 
-🚀 Actively improving my skills in Cloud computing, Data Engineering, and Data Science
+📊 **Background in engineering. I graduated with a master's degree in Sustainable Energy Engineering from Nottingham Trent University, before transitioning into data engineering. Looking to eventually develop data-driven solutions for renewable energy projects**  
+
+🌍 Open to **collaborations** in data-driven projects! 
 
 📩 Let's connect: [LinkedIn](https://www.linkedin.com/in/nanakyeredonkor) | Email: n.kdonkor1@gmail.com
 
-🔧 Tech Stack & Skills:
-- **Programming**: Python (Pandas, FastAPI, PySpark), SQL
-- **Cloud & DevOps**: AWS (Lambda, S3, ECS), Terraform, Azure
-- **Data Engineering**: ETL Pipelines, Data Modelling, SQL Optimisation
-- **Data Visualisation**: Power BI, Matplotlib
+</div>
+
+---
 
 🚀 Currently working on two projects at the moment:
 
@@ -31,6 +31,23 @@ Data Engineer | AI & Machine Learning Enthusiast | Renewable Energy Advocate
 - **Progress:** Developing message publishing and subscription system.  
 
 
-🚀 *Always open to collaboration on impactful data-driven projects!*
+---
 
-</div>
+## 🔧 Tech Stack & Skills  
+🚀 **Languages:** Python, SQL, Bash  
+☁️ **Cloud & DevOps:** AWS (S3, Lambda, ECS), Azure, Terraform, CI/CD  
+📊 **Data Engineering:** ETL Pipelines, Data Warehousing, SQL Optimisation  
+📈 **Visualisation & Analytics:** Power BI, Matplotlib  
+
+---
+
+## 🎯 Current Focus  
+- Strengthening **Big Data & Cloud** skills (Azure, AWS, Databricks)  
+- Exploring **ML & AI for Energy Forecasting**  
+- Completing **PL-300 & Azure Certifications**  
+
+---
+
+⚡ *"Building scalable, sustainable solutions, one data pipeline at a time!"* 
+
+
