@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there! 👋,  I'm Nana
+# Hi there! 👋,    I'm Nana
 
 Data Engineer | AI & Machine Learning Enthusiast | Renewable Energy Advocate
 
