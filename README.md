@@ -22,8 +22,8 @@ Data Engineer | AI & Machine Learning Enthusiast | Renewable Energy Advocate
 
 🛡️ GDPR Obfuscator  
 - **Purpose:** A data privacy tool that anonymises personally identifiable information (PII) in CSV files.  
-- **Tech Stack:** Python, AWS S3, Pandas, PyArrow, FastAPI.  
-- **Progress:** Implementing automated PII detection and masking.  
+- **Tech Stack:** Python, AWS S3, Pandas, PyArrow.  
+- **Progress:** Implementing CLI integration.  
 
  📡 Streaming Data Pipeline  
 - **Purpose:** A real-time data pipeline that retrieves news articles from the Guardian API and publishes them to AWS SQS.  
