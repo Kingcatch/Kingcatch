@@ -42,9 +42,9 @@ Data Engineer | AI & Machine Learning Enthusiast | Renewable Energy Advocate
 ---
 
 ## 🎯 Current Focus  
-- Strengthening **Big Data & Cloud** skills (Azure, AWS, Databricks)  
-- Exploring **ML & AI for Energy Forecasting**  
-- Completing **PL-300 & Azure Certifications**  
+- Strengthening **Big Data & Cloud Technologies** skills (Azure, AWS, Databricks)  
+- Exploring **Solutions Architecture**  
+   
 
 ---
 
