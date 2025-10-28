@@ -2,9 +2,9 @@
   
 # Hi there! 👋,    I'm Nana
 
-Data Engineer | AI & Machine Learning Enthusiast | Renewable Energy Advocate
+Data Engineer | Solutions Architecture Enthusiast | Renewable Energy Advocate
 
-🚀 Passionate about **Data Engineering, AI, and Sustainable Energy**  
+🚀 Passionate about **Data Engineering, Solutions Architecture, and Sustainable Energy**  
 
 📌 Based in **Manchester, UK (Open to Relocate)**  
 
