@@ -6,7 +6,7 @@ Data Engineer | AI & Machine Learning Enthusiast | Renewable Energy Advocate
 
 🚀 Passionate about **Data Engineering, AI, and Sustainable Energy**  
 
-📌 Based in **Manchester, UK**  
+📌 Based in **Manchester, UK (Open to Relocate)**  
 
 📊 **Background in engineering. I graduated with a master's degree in Sustainable Energy Engineering from Nottingham Trent University, before transitioning into data engineering. Looking to eventually develop data-driven solutions for renewable energy projects**  
 
